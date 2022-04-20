@@ -1,7 +1,6 @@
 examenInfor
 
-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
-
+token Ori: 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
 token Maxi: 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
 token Marcelo: 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
 token Agustin: ghp_e0iqPimBaktgPo0gF696a3GYhLmKic08l1Lw
